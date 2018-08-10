@@ -1,3 +1,6 @@
 class Dog 
-  def initialize
+  def initialize(fido,snoopy,lassie)
+    @fido = fido
+    @snoopy = snoopy
+    @lassie = lassie
 end 
