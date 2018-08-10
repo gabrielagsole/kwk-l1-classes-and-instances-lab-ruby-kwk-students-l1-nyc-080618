@@ -1,18 +1,3 @@
-# Classes And Instances Lab Ruby
-
-## Objectives
-
-1. Define new Ruby classes with the `class` keyword.
-2. Instantiate instances of a `class`.
-
-## Overview
-
-This lab is all about defining classes and instantiating instances.
-
-## Instructions
-
-Open this lab and run your tests with `learn`.
-
 ### 1. Define `Dog` in `lib/dog.rb`
 
 ### 2. Make 3 dogs in `lib/dog.rb`
